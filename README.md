@@ -157,8 +157,7 @@ Segue um exemplo de resultado em json para a sentença que usei de exemplo:
     ],
     "errors": []
 }
-
-
+```
 
 ### Conclusão e Insights
 
